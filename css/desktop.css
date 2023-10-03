@@ -160,6 +160,11 @@
 
 	.subscribe-input {
 		width: 264px;
+		opacity: 1;
+	}
+
+	.subscribe-input::placeholder {
+		opacity: 1;
 	}
 
 	.modal-close-icon {
